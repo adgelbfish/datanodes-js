@@ -1,0 +1,9 @@
+{
+  "name": "datanodes-js",
+  "version": "0.0.0",
+  "description": "javascript library for datanodes",
+  "main": "index.js",
+  "repository": "git@github.com:adgelbfish/datanodes-js.git",
+  "author": "Avraham David Gelbfish <adg@adgelb.fish>",
+  "license": "MIT"
+}
